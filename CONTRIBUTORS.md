@@ -14,3 +14,8 @@
 * **Site**: [Ruan Aragão](http://blog.ruanaragao.com>)
 * **Github**: [@RuanAragao](https://github.com/RuanAragao)
 * **Twitter**: [@RuanAragao](https://twitter.com/RuanAragao)
+
+## Léo Biscassi
+* **Site**: [Léo Biscassi](https://biscassi.wordpress.com/)
+* **Github**: [@leobiscassi](https://github.com/leobiscassi)
+* **Twitter**: [@leobiscassi](https://twitter.com/leobiscassi)
