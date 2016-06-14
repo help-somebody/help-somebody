@@ -51,3 +51,9 @@ Abra um pull request nesse repositório adicionando seus dados no arquivo `CONTR
 * **Github**: [@user](<link para o perfil>)
 * **Twitter**: [@user](<link para o perfil>)
 ```
+
+## Motivação
+Contribuição em projetos Open Source além de nos trazerem ótimos conhecimentos, nos permitem criar networking com pessoas incríveis. Mas ainda assim, muitas vezes deixamos de fazer. Então para estimular a contribuição, criamos essa iniciativa.
+**A ideia é simples**: incentivar as pessoas a contribuirem com a comunidade, e caso por algum motivo (geralmente procrastinação)
+não for possível no mês, essa pessoa deve ajudar alguma instituição de caridade, ou seja, todo mês os participantes desse grupo
+irão ajudar alguém :smile:.
