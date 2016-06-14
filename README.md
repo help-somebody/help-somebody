@@ -51,3 +51,8 @@ Abra um pull request nesse repositório adicionando seus dados no arquivo `CONTR
 * **Github**: [@user](<link para o perfil>)
 * **Twitter**: [@user](<link para o perfil>)
 ```
+
+## Motivação
+A ideia é simples, incentivar as pessoas a contribuirem com a comunidade e caso por algum motivo (geralmente procrastinação)
+não for possível no mês, essa pessoa deve ajudar alguma instituição de caridade, ou seja, todo mês os participantes desse grupo
+irão ajudar alguém :smile:.
