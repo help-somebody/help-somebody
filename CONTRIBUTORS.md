@@ -19,3 +19,8 @@
 * **Site**: [Léo Biscassi](https://biscassi.wordpress.com/)
 * **Github**: [@leobiscassi](https://github.com/leobiscassi)
 * **Twitter**: [@leobiscassi](https://twitter.com/leobiscassi)
+
+## Diego Ponciano
+* **Site**: [Diego Ponciano](https://diegoponciano.github.io/)
+* **Github**: [@diegoponciano](https://github.com/diegoponciano)
+* **Twitter**: [@diegoponci](https://twitter.com/diegoponci)
