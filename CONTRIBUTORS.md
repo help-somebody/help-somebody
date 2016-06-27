@@ -24,3 +24,8 @@
 * **Site**: [Diego Ponciano](https://diegoponciano.github.io/)
 * **Github**: [@diegoponciano](https://github.com/diegoponciano)
 * **Twitter**: [@diegoponci](https://twitter.com/diegoponci)
+
+## Gabriel Marcondes
+* **Site**: [GG Marcondes](https://ggmarcondes.com/)
+* **Github**: [@gabrielmarcondes](https://github.com/gabrielmarcondes)
+* **Twitter**: [@ggzes](https://twitter.com/ggzes)
