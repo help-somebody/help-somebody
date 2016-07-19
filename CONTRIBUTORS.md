@@ -29,3 +29,8 @@
 * **Site**: [GG Marcondes](https://ggmarcondes.com/)
 * **Github**: [@gabrielmarcondes](https://github.com/gabrielmarcondes)
 * **Twitter**: [@ggzes](https://twitter.com/ggzes)
+
+## Vinicius Mesel
+* **Site**: [vmesel.com](http://www.vmesel.com/)
+* **Github**: [@vmesel](https://github.com/vmesel)
+* **Twitter**: [@vmesel](https://twitter.com/vmesel)
