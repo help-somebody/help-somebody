@@ -34,3 +34,8 @@
 * **Site**: [vmesel.com](http://www.vmesel.com/)
 * **Github**: [@vmesel](https://github.com/vmesel)
 * **Twitter**: [@vmesel](https://twitter.com/vmesel)
+
+## Júlia Rizza
+* **Site**: [juliarizza.com](http://juliarizza.com/)
+* **Github**: [@juliarizza](https://github.com/juliarizza)
+* **Twitter**: [@Outrora_](https://twitter.com/juliarizza_)
