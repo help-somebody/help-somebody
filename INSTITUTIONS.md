@@ -36,4 +36,11 @@
 **Agência**: 3499-1 <br />
 
 ### Outras formas de doação
-Para outras formas de doação consulte o [sistema de doações HC Barretos](https://www.hcancerbarretos.com.br/doacoes/sistema-de-doacao/).
+Para outras formas de doação consulte o [sistema de doações HC Barretos](https://www.hcancerbarretos.com.br/doacoes/sistema-de-doacao/). <br />
+
+## Carequinhas - Contra o Câncer Infantil
+**Página**: [Carequinhas](http://www.carequinhas.com.br/) <br />
+**Cidade**: São Paulo/SP <br />
+
+### Doações
+**Website**: [http://www.carequinhas.com.br/ajude](http://www.carequinhas.com.br/ajude) <br />
