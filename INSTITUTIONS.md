@@ -44,3 +44,10 @@ Para outras formas de doação consulte o [sistema de doações HC Barretos](htt
 
 ### Doações
 **Website**: [http://www.carequinhas.com.br/ajude](http://www.carequinhas.com.br/ajude) <br />
+
+## Medicos sem fronteiras
+**Página**: [Medicos sem Fronteiras](http://www.msf.org.br/) <br />
+**Cidade**: Rio de Janeiro/RJ <br />
+
+### Doações
+**Website**: [http://www.msf.org.br/como-ajudar](http://www.msf.org.br/como-ajudar) <br />
