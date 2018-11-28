@@ -16,7 +16,7 @@
 * **Twitter**: [@RuanAragao](https://twitter.com/RuanAragao)
 
 ## Léo Biscassi
-* **Site**: [Léo Biscassi](https://biscassi.wordpress.com/)
+* **Site**: [Léo Biscassi](https://leobiscassi.github.io/)
 * **Github**: [@leobiscassi](https://github.com/leobiscassi)
 * **Twitter**: [@leobiscassi](https://twitter.com/leobiscassi)
 
